@@ -39,6 +39,7 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
 ### Containers & Orchestration
 
@@ -81,3 +82,39 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 | **UNICC Cloud Platform** | CI/CD pipelines & IaC for multi-agency UN cloud environments | Terragrunt · AWS · GCP · Bamboo |
 | **AWS Security Governance** | GuardDuty, Security Hub, SCPs, CloudTrail Lake across 47 accounts | AWS · Terraform · Python |
 | **Kubernetes Observability** | Multi-tenant Prometheus + Grafana with team isolation | prom-label-proxy · Grafana Orgs |
+
+> ⚠️ Most client work lives in private repos — the above reflects real projects I've delivered.
+
+---
+
+## 📜 Certifications
+
+- 🏅 **Google Cloud Certified — Professional Cloud DevOps Engineer** (2021)
+- 🏅 **AWS — Architecting on AWS** (2020)
+- 🏅 **CKA — Kubernetes** · 4Linux (2020)
+- 🏅 **Uncomplicated Ansible** · LinuxTips (2019)
+- 🏅 **Uncomplicated Kubernetes** · LinuxTips (2018)
+- 🏅 **CCNP / CCNA** · Cisco (2008–2011)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/gilvicarjo/github-stats/blob/master/generated/overview.svg">
+    <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+    <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/overview.svg#gh-light-mode-only"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/gilvicarjo/github-stats/blob/master/generated/languages.svg">
+    <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+    <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>📍 Lisbon, Portugal &nbsp;|&nbsp; 🌍 Working with UN agencies worldwide &nbsp;|&nbsp; 💼 Open to B2B engagements</i>
+</p>
