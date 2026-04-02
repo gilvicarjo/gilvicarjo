@@ -102,5 +102,7 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 ---
 
 <p align="center">
-  <i>📍 Lisbon, Portugal &nbsp;|&nbsp; 🌍 Working with UN agencies worldwide &nbsp;|&nbsp; 💼 Open to B2B engagements</i>
+  <i>📍 Lisbon, Portugal &nbsp;|&nbsp;</i>
+  <i>🌍 Working with UN agencies worldwide &nbsp;|&nbsp; </i>
+  <i>💼 Open to B2B engagements</i>
 </p>
