@@ -81,7 +81,7 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications and Trainings
 
 - 🏅 **Google Cloud Certified — Professional Cloud DevOps Engineer** (2021)
 - 🏅 **AWS — Architecting on AWS** (2020)
