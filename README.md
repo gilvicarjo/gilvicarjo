@@ -81,7 +81,7 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 
 ---
 
-## 📜 Certifications and Trainings
+## 📜 Certifications
 
 - 🏅 **Google Cloud Certified — Professional Cloud DevOps Engineer** (2021)
 - 🏅 **AWS — Architecting on AWS** (2020)
@@ -95,8 +95,8 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilvicarjo&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvicarjo&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gilvicarjo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvicarjo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
