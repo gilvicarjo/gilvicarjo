@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Gil Araujo 👋</h1>
+<h1 align="center">Gil Araujo</h1>
 
 <p align="center">
   <b>CloudOps & Release Engineer · AWS · Azure · GCP · Kubernetes · Terraform · Ansible · CI/CD</b><br/>
