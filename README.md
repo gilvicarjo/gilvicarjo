@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gil Araujo 👋</h1>
 
 <p align="center">
-  <b>Cloud & Release Engineer · AWS · Azure · GCP · Kubernetes · Terraform · Ansible · CI/CD</b><br/>
+  <b>CloudOps & Release Engineer · AWS · Azure · GCP · Kubernetes · Terraform · Ansible · CI/CD</b><br/>
   <i>Building reliable and automated infrastructure</i>
 </p>
 
@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-**Cloud & Release Engineer** based in **Lisbon, Portugal**, currently working with on AWS, Azure and GCP environments.
+**CloudOps & Release Engineer** based in **Lisbon, Portugal**, currently working with on AWS, Azure and GCP environments.
 
 With 20+ years in IT — Modern cloud-native engineering — I specialise in:
 
@@ -67,6 +67,7 @@ With 20+ years in IT — Modern cloud-native engineering — I specialise in:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white)
 
 ### Languages & Scripting
 
