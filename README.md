@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Gil Araujo 👋</h1>
 
 <p align="center">
-  <b>Cloud & Release Engineer · AWS · Kubernetes · Terraform · CI/CD</b><br/>
-  <i>Building reliable, automated infrastructure for international organisations</i>
+  <b>Cloud & Release Engineer · AWS · Azure · GCP · Kubernetes · Terraform · Ansible · CI/CD</b><br/>
+  <i>Building reliable and automated infrastructure</i>
 </p>
 
 <p align="center">
@@ -21,15 +21,15 @@
 
 ## 🚀 About Me
 
-I'm an independent **Cloud & Release Engineer** based in **Lisbon, Portugal**, currently working with **UN agencies** (UNICC, UNHCR, UNFPA, OHCHR) on AWS and GCP infrastructure.
+**Cloud & Release Engineer** based in **Lisbon, Portugal**, currently working with on AWS, Azure and GCP environments.
 
-With 20+ years in IT — from SysAdmin roots in networking and Linux systems to modern cloud-native engineering — I specialise in:
+With 20+ years in IT — Modern cloud-native engineering — I specialise in:
 
 - 🔁 **Release Engineering** — lifecycle governance, deployment windows, runbooks, rollback plans
-- ☁️ **Cloud Infrastructure** — AWS multi-account Organizations (~47 accounts), GCP, EKS, GKE
+- ☁️ **Cloud Infrastructure** — AWS, Azure, GCP
+- Microservices
 - 🔧 **CI/CD Automation** — GitLab CI, Azure DevOps, GitHub Actions, Bamboo, Argo CD
 - 📦 **Infrastructure as Code** — Terraform, Terragrunt, Ansible
-- 🤖 **AI-Powered DevOps** — Multi-agent automation systems using Claude API + MCP + ServiceNow/Jira
 
 ---
 
@@ -74,27 +74,13 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 
 ---
 
-## 📌 Featured Work
+## 📜 Certifications and Trainings
 
-| Project | Description | Stack |
-|---|---|---|
-| **Multi-Agent DevOps System** | Autonomous AI agents for cloud operations integrated with ServiceNow & Jira | Python · Claude API · MCP · AWS |
-| **UNICC Cloud Platform** | CI/CD pipelines & IaC for multi-agency UN cloud environments | Terragrunt · AWS · GCP · Bamboo |
-| **AWS Security Governance** | GuardDuty, Security Hub, SCPs, CloudTrail Lake across 47 accounts | AWS · Terraform · Python |
-| **Kubernetes Observability** | Multi-tenant Prometheus + Grafana with team isolation | prom-label-proxy · Grafana Orgs |
-
-> ⚠️ Most client work lives in private repos — the above reflects real projects I've delivered.
-
----
-
-## 📜 Certifications
-
-- 🏅 **Google Cloud Certified — Professional Cloud DevOps Engineer** (2021)
-- 🏅 **AWS — Architecting on AWS** (2020)
-- 🏅 **CKA — Kubernetes** · 4Linux (2020)
-- 🏅 **Uncomplicated Ansible** · LinuxTips (2019)
-- 🏅 **Uncomplicated Kubernetes** · LinuxTips (2018)
-- 🏅 **CCNP / CCNA** · Cisco (2008–2011)
+- 🏅 **Google Cloud Certified — Professional Cloud DevOps Engineer**
+- 🏅 **AWS — Architecting on AWS**
+- 🏅 **CKA — Kubernetes** · 4Linux
+- 🏅 **Uncomplicated Ansible** · LinuxTips
+- 🏅 **Uncomplicated Kubernetes** · LinuxTips
 
 ---
 
