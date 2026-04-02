@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
 **CloudOps & Release Engineer** based in **Lisbon, Portugal**, currently working with on AWS, Azure and GCP environments.
 
