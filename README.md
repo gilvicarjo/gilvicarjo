@@ -94,14 +94,7 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark"/>
-  <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark"/>
-  <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light"/>
-</p>
+
 
 ---
 
