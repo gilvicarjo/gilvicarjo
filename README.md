@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm an independent **Cloud & Release Engineer** based in **Lisbon, Portugal**, currently working for UNICC on AWS and GCP infrastructure.
+I'm an independent **Cloud & Release Engineer** based in **Lisbon, Portugal**, currently working with **UN agencies** (UNICC, UNHCR, UNFPA, OHCHR) on AWS and GCP infrastructure.
 
 With 20+ years in IT — from SysAdmin roots in networking and Linux systems to modern cloud-native engineering — I specialise in:
 
@@ -95,14 +95,16 @@ With 20+ years in IT — from SysAdmin roots in networking and Linux systems to 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gilvicarjo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilvicarjo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark"/>
+  <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark"/>
+  <img src="https://raw.githubusercontent.com/gilvicarjo/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>📍 Lisbon, Portugal &nbsp;|&nbsp;</i>
-  <i>🌍 Working with UN agencies worldwide &nbsp;|&nbsp; </i>
-  <i>💼 Open to B2B engagements</i>
+  <i>📍 Lisbon, Portugal &nbsp;|&nbsp; 🌍 Working with UN agencies worldwide &nbsp;|&nbsp; 💼 Open to B2B engagements</i>
 </p>
