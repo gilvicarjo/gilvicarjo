@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-gilvicarjo-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/gilvicarjo">
-    <img src="https://komarev.com/ghpvc/?username=gilvicarjo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=gilvicarjo&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
