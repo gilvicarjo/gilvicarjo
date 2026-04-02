@@ -1,6 +1,6 @@
-<h1 align="center">Gil Araujo</h1>
+<h1 align="left">Gil Araujo</h1>
 
-<p align="center">
+<p align="left">
   <b>CloudOps & Release Engineer · AWS · Azure · GCP · Kubernetes · Terraform · Ansible · CI/CD</b><br/>
   <i>Building reliable and automated infrastructure</i>
 </p>
