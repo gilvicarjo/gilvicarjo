@@ -5,7 +5,7 @@
   <i>Building reliable and automated infrastructure</i>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gilvicarjo">
     <img src="https://img.shields.io/badge/LinkedIn-gilvicarjo-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
