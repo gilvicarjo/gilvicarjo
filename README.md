@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-I'm an independent **Cloud & Release Engineer** based in **Lisbon, Portugal**, currently working with **UN agencies** (UNICC, UNHCR, UNFPA, OHCHR) on AWS and GCP infrastructure.
+I'm an independent **Cloud & Release Engineer** based in **Lisbon, Portugal**, currently working for UNICC on AWS and GCP infrastructure.
 
 With 20+ years in IT — from SysAdmin roots in networking and Linux systems to modern cloud-native engineering — I specialise in:
 
