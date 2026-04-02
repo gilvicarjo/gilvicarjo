@@ -27,8 +27,9 @@ With 20+ years in IT — Modern cloud-native engineering — I specialise in:
 
 - 🔁 **Release Engineering** — lifecycle governance, deployment windows, runbooks, rollback plans
 - ☁️ **Cloud Infrastructure** — AWS, Azure, GCP
-- Microservices
-- 🔧 **CI/CD Automation** — GitLab CI, Azure DevOps, GitHub Actions, Bamboo, Argo CD
+- 🧩 **Microservices** — design, deployment and orchestration with Kubernetes, Docker, Helm and service mesh
+- ☸️ **Kubernetes** — EKS, GKE, cluster management, Helm charts, Argo CD, multi-tenant observability
+- 🔧 **CI/CD Automation** — GitLab CI, Azure DevOps, GitHub Actions, Argo CD
 - 📦 **Infrastructure as Code** — Terraform, Terragrunt, Ansible
 
 ---
@@ -51,6 +52,7 @@ With 20+ years in IT — Modern cloud-native engineering — I specialise in:
 ### IaC & Config Management
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 ### CI/CD
